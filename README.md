@@ -2,14 +2,14 @@
 > Olá!! Bem vindo ao estudo de caso *"Resposta a um Ataque DDoS por Inundação de ICMP"*. A seguir você encontrará uma breve explicação de como aplicar o NIST CSF, um resumo sobre o estudo de caso e por fim o relatório de incidente.
 
 ## Summary
-- [Aplicando o NIST CSF](#)
-- [Estudo de Caso: Resposta a um Ataque DDoS por Inundação de ICMP](#)
-- [Análise de relatório de incidente (pdf)]()
+- [Aplicando o NIST CSF](#aplicando-o-nist-csf)
+- [Estudo de Caso: Resposta a um Ataque DDoS por Inundação de ICMP](#estudo-de-caso-resposta-a-um-ataque-ddos-por-inundação-de-icmp)
+- [Análise de relatório de incidente (pdf)](https://github.com/mariarithanascimento/NIST-CSF-Portfolio/blob/af187be4e3bfe27f2da68bbfa370d6c0252daa14/An%C3%A1lise%20de%20relat%C3%B3rio%20de%20incidente.pdf)
 ## `Aplicando o NIST CSF`
 
 Existem cinco funções principais no framework NIST CSF: identificar, proteger, detectar, responder e recuperar. 
 
-(imagem)
+![enter image description here](https://github.com/mariarithanascimento/NIST-CSF-Portfolio/blob/0399e53a2d31a3252d2fb68982d5c5ca39688724/nist-framework.png)
 
 Essas funções principais ajudam as organizações a gerenciar riscos de cibersegurança, implementar estratégias de gerenciamento de risco e aprender com erros anteriores. Planos baseados nesse framework devem ser continuamente atualizados para se manterem à frente das ameaças de segurança mais recentes. As funções principais ajudam a garantir que as organizações estejam protegidas contra possíveis ameaças, riscos e vulnerabilidades. Cada função pode ser usada para melhorar a segurança de uma organização:
 
